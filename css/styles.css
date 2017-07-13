@@ -159,7 +159,7 @@ p{
 }
 /*AVAILABLE FOR WORK*/
 #availableForWork{
-  background: url("http://lorempixel.com/1200/1200/")no-repeat center center;
+  background: url("images/me.jpg")no-repeat center center;
   background-size: cover;
   height: 40vh;
   width: 100%;
